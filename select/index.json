@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "One stroke for freedom",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-23T05:52:12.383671Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One stroke for freedom",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/01_One_stroke_for_freedom_UVERworld.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One stroke for freedom",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_One_stroke_for_freedom_UVERworld.txt"
+    }
+  ]
+}
